@@ -49,7 +49,7 @@ const LandingPage: React.FC = () => {
         className="w-1/2 bg-white flex flex-col justify-center px-12"
       >
         <h1 className="text-4xl font-bold text-indigo-600 mb-4 flex items-center gap-2">
-          <LogIn className="w-8 h-8" /> Welcome to Aguken AI
+          <LogIn className="w-8 h-8 text-green-600" /> Welcome to Aguken AI
         </h1>
         <p className="text-gray-600 mb-8">
           A powerful platform to streamline your healthcare services and
